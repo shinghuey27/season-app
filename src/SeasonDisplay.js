@@ -37,7 +37,7 @@ const SeasonDisplay = (props) => {
             <h2 className = "lat-title">Latitude : {props.lat}</h2>
             <h2 className = "long-title">Longitude : {props.long}</h2>
             <i className={`icon-right massive ${iconName} icon`} />
-            <div>abc</div>
+            
         </div>
 
     );
